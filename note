@@ -1,0 +1,17 @@
+
+git clone https://github.com/jonkiky/yizhen2.git
+
+copy code from github to local
+
+
+git add  
+
+add local change to local git repo
+
+
+git commit 
+
+Comment
+
+git push local changes to github
+
